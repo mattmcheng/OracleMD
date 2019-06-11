@@ -1,2 +1,2 @@
 # OracleMD
-Diagnostics tool 
+Diagnostics tool with OCI
