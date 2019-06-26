@@ -17,7 +17,7 @@ In todays age, knowing that you have a problem is not enough. You need to plan f
 ## Documentation
 
 ## Bugs and Issues
-Have a bug or an issue with this template? Open a new issue here on GitHub or leave a comment on the template overview page at Start Bootstrap.
+Have a bug or an issue with this template? [Open a new issue](https://github.com/mattmcheng/OracleMD/issues) here on GitHub.
 
 ## Built With
 <table>
