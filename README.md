@@ -20,20 +20,15 @@ In todays age, knowing that you have a problem is not enough. You need to plan f
 Have a bug or an issue with this template? Open a new issue here on GitHub or leave a comment on the template overview page at Start Bootstrap.
 
 ## Built With
-<div class="row">
-  <div class="column" style="float:left; padding-left:25px;">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt-text="React" width="100px">
-  </div>
-  <div class="column" style="float:left; padding-left:25px;">
-    <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png" alt-text="NodeJS" width="100px">
-  </div>
-  <div class="column" style="float:left; padding-left:25px;">
-    <img src="https://seeklogo.net/wp-content/uploads/2011/05/oracle-logo-vector.png" alt-text="Oracle" width="100px">
-  </div>
-  <div class="column" style="float:left; padding-left:25px;">
-    <img src="https://www.atatus.com/images/devicon/icon-express.svg" alt-text="Express" width="100px">
-  </div>
-</div>
+<table>
+  <tr>
+    <th><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt-text="React" width="100px"></th>
+    <th><img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png" alt-text="NodeJS" width="100px"></th>
+    <th><img src="https://seeklogo.net/wp-content/uploads/2011/05/oracle-logo-vector.png" alt-text="Oracle" width="100px"></th>
+    <th><img src="https://www.atatus.com/images/devicon/icon-express.svg" alt-text="Express" width="100px"></th>
+
+  </tr>
+</table>
 
 ## Creators
 <table>
