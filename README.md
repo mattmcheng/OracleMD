@@ -32,7 +32,7 @@
 </div>
 
 ## Creators
-* Pallak Srivastava <a href="https://www.linkedin.com/in/pallaksrivastava/"> <img src="https://i0.wp.com/www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png?resize=300%2C300" alt-text="LinkedIn Logo" width="25px"></a>
+* Pallak Srivastava <a href="https://www.linkedin.com/in/pallaksrivastava/"> <img src="https://i0.wp.com/www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png?resize=300%2C300" alt-text="LinkedIn Logo" width="25px"></a> <a href="https://github.com/Pallak01"> <img src="https://image.flaticon.com/icons/svg/25/25231.svg" alt-text="Github Logo" width="25px" style="padding:10px"></a>
 
 * Sheila Truong <a href="https://www.linkedin.com/in/sheila-truong/"> <img src="https://i0.wp.com/www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png?resize=300%2C300" alt-text="LinkedIn Logo" width="25px" style="padding-left:10px"></a> <a href="https://github.com/sheilatruong96/"> <img src="https://image.flaticon.com/icons/svg/25/25231.svg" alt-text="Github Logo" width="25px" style="padding:10px"></a>
 
